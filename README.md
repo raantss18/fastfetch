@@ -10,11 +10,11 @@
 
 ```
 sudo pacman -Syu fastfetch imagemagick ttf-jetbrains-mono-nerd
-´´´
+```
 Then set the terminal font to jetbrain-mono-nerd.
 Next clone the repository to the fastfetch config folder :
 
-´´´ 
+```
  git clone https://github.com/raantss18/fastfetch.git ~/.config/fastfetch
 ```
 
